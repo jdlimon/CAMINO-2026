@@ -15,7 +15,7 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 True project code starts now. 
 
-# Project Gameplan 
+# Project Game plan 
 We gotta decide what figures we're going to make: 
 - We need to figure out how to push/pull
 -Cause of Death for all Submitted Cases: Taylor
