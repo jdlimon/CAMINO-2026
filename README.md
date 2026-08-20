@@ -13,5 +13,9 @@ Testing
 # Double Checking our work 
 Juli's edit
 
+<<<<<<< HEAD
 #Anthony Edit Part 2
 This better work 
+=======
+#New blockvg
+>>>>>>> ac2b3052b0d3f24ae9bcf6637c155891852388d7
