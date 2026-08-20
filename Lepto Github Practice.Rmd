@@ -24,7 +24,7 @@ library(tidyverse)
 # Read in Data
 We will be focusing on the data we pulled from the cases we submitted. This data is in the github repository. Before creating the dataframe double check that the data in github is the most up to date. 
 ```{r}
-lepto <- read.csv("https://github.com/jdlimon/CAMINO-2026/blob/d961b302d9dbffb8fc5b4268f46d3a2a35f1a873/CAMINO%202026%20Lepto%20Data%20-%20Submitted%20Cases%20Metadata%20(1).csv", row.names=NULL)
+lepto <- read.csv("CAMINO 2026 Lepto Data - Submitted Cases Metadata (1).csv", row.name = NULL)
 ```
 
 When running the bar bones `read.csv` I got the following error 
@@ -32,3 +32,5 @@ When running the bar bones `read.csv` I got the following error
   duplicate 'row.names' are not allowed``` 
 
 I fixed this by adding `row.names=NULL`
+
+# Check Data 
