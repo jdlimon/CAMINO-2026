@@ -6,5 +6,12 @@ The project purpose is to analyze any trends seen in the systematic surveillance
 # Juli Edit 
 Testing github collab 
 
+<<<<<<< HEAD
 #Anthony Edit
 Testing
+=======
+# Double Checking our work 
+Juli's edit 
+
+#New block
+>>>>>>> fbb6768452726a576671e6d174e3c157dc0481bd
