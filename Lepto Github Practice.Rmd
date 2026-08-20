@@ -1,0 +1,34 @@
+---
+title: "2026 CAMINO Lepto Project"
+output: github_document
+---
+# Helpful tips but we will delete later
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+True project code starts now. 
+
+# Load Packages 
+Let's start with tidyverse and then add as we go on and need more packages.
+```{r}
+library(tidyverse)
+```
+
+# Read in Data
+We will be focusing on the data we pulled from the cases we submitted. This data is in the github repository. Before creating the dataframe double check that the data in github is the most up to date. 
+```{r}
+lepto <- read.csv("https://github.com/jdlimon/CAMINO-2026/blob/d48ebbecee441325fe6736e659d3f64ffcf59b3d/CAMINO%202026%20Lepto%20Data%20-%20Submitted%20Cases%20Metadata.csv", row.names=NULL)
+```
+
+When running the bar bones `read.csv` I got the following error 
+```Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
+  duplicate 'row.names' are not allowed``` 
+
+I fixed this by adding `row.names=NULL`
