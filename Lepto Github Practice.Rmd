@@ -37,6 +37,7 @@ When running the bar bones `read.csv` I got the following error
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 I fixed this by adding `row.names=NULL`
 =======
 I fixed this by adding `row.names=NULL`
@@ -58,3 +59,6 @@ summary(lepto)
 #TonyTest
 =======
 >>>>>>> 6ec79e21cf1d5d96a50050630d09bad15d533448
+=======
+help me
+>>>>>>> 467b24b1efcc9712da0d5ecc3ecd5fea73804678

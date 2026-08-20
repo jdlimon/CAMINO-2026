@@ -21,6 +21,7 @@ This better work
 >>>>>>> ac2b3052b0d3f24ae9bcf6637c155891852388d7
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #test part 3
 =======
 #Taylor edit
@@ -28,3 +29,6 @@ This better work
 
 #Test Edit Tony
 Test
+=======
+#Taylor editss
+>>>>>>> 467b24b1efcc9712da0d5ecc3ecd5fea73804678
