@@ -20,4 +20,10 @@ This better work
 #New blockvg
 >>>>>>> ac2b3052b0d3f24ae9bcf6637c155891852388d7
 
+<<<<<<< HEAD
 #test part 3
+=======
+#Taylor edit
+>>>>>>> 6ec79e21cf1d5d96a50050630d09bad15d533448
+
+#Test Edit Tony
