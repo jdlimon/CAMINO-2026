@@ -31,3 +31,4 @@ When running the bar bones `read.csv` I got the following error
 ```Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
   duplicate 'row.names' are not allowed``` 
 
+help me
