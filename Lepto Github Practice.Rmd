@@ -18,6 +18,10 @@ True project code starts now.
 # Project Gameplan 
 We gotta decide what figures we're going to make: 
 - We need to figure out how to push/pull
+-Cause of Death for all Submitted Cases: Taylor
+-PCR results for other Pinnipeds/Cetaceans: Anthony
+-PCR results for CSLs with breakdown of Age/Sex: Anthony
+-Geographic graph of Submitted Cases with Strand Year: Taylor
 
 # Load Packages 
 Let's start with tidyverse and then add as we go on and need more packages.
