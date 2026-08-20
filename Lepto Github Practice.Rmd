@@ -32,5 +32,3 @@ When running the bar bones `read.csv` I got the following error
   duplicate 'row.names' are not allowed``` 
 
 I fixed this by adding `row.names=NULL`
-
-# Check Data 
