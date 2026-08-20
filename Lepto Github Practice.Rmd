@@ -17,7 +17,7 @@ True project code starts now.
 
 # Project Gameplan 
 We gotta decide what figures we're going to make: 
-- 
+- We need to figure out how to push/pull
 
 # Load Packages 
 Let's start with tidyverse and then add as we go on and need more packages.
