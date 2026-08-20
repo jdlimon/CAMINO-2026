@@ -36,6 +36,7 @@ When running the bar bones `read.csv` I got the following error
   duplicate 'row.names' are not allowed``` 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I fixed this by adding `row.names=NULL`
 =======
 I fixed this by adding `row.names=NULL`
@@ -55,3 +56,5 @@ summary(lepto)
 >>>>>>> ac2b3052b0d3f24ae9bcf6637c155891852388d7
 
 #TonyTest
+=======
+>>>>>>> 6ec79e21cf1d5d96a50050630d09bad15d533448
