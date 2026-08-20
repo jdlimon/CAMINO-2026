@@ -11,7 +11,7 @@ Testing github collab
 Testing
 =======
 # Double Checking our work 
-Juli's edit 
+Juli's edit
 
-#New block
->>>>>>> fbb6768452726a576671e6d174e3c157dc0481bd
+#Anthony Edit Part 2
+This better work 
