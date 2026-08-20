@@ -34,3 +34,4 @@ When running the bar bones `read.csv` I got the following error
 I fixed this by adding `row.names=NULL`
 
 # Check Data 
+data
