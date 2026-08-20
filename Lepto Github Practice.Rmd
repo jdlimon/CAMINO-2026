@@ -15,6 +15,10 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 True project code starts now. 
 
+# Project Gameplan 
+We gotta decide what figures we're going to make: 
+- 
+
 # Load Packages 
 Let's start with tidyverse and then add as we go on and need more packages.
 ```{r}
@@ -33,4 +37,15 @@ When running the bar bones `read.csv` I got the following error
 
 I fixed this by adding `row.names=NULL`
 
-# Check Data 
+# Check Data
+- view data
+- column names 
+- structure 
+```{r}
+colnames(lepto)
+str(lepto)
+View(lepto)
+summary(lepto)
+```
+
+# Prep Data for Graphs
