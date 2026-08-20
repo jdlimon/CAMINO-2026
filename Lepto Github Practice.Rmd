@@ -15,6 +15,10 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 True project code starts now. 
 
+# Project Gameplan 
+We gotta decide what figures we're going to make: 
+- 
+
 # Load Packages 
 Let's start with tidyverse and then add as we go on and need more packages.
 ```{r}
@@ -31,4 +35,23 @@ When running the bar bones `read.csv` I got the following error
 ```Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
   duplicate 'row.names' are not allowed``` 
 
+<<<<<<< HEAD
 I fixed this by adding `row.names=NULL`
+=======
+I fixed this by adding `row.names=NULL`
+
+# Check Data
+- view data
+- column names 
+- structure 
+```{r}
+colnames(lepto)
+str(lepto)
+View(lepto)
+summary(lepto)
+```
+
+# Prep Data for Graphs
+>>>>>>> ac2b3052b0d3f24ae9bcf6637c155891852388d7
+
+#TonyTest
